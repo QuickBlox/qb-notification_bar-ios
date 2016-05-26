@@ -1,2 +1,3 @@
-# qb-notification_bar-ios
+# Overview
 QuickBlox custom notification bar for iOS
+
